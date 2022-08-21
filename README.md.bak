@@ -1,0 +1,20 @@
+# GraphQL_01
+Using GraphQL to generate a pre-defined query in a React application server
+
+The app uses GraphQL to generate database queries. To use the GraphQL generator as well as run the React application server, you'll need Node.js JavaScript runtime and npm (Node.js package manager) installed. npm is included with Node.js which you can download and install from Node.js downloads.
+
+Tip: To test that you have Node.js and npm correctly installed on your machine, you can type node --version and npm --version in a terminal or command prompt.
+
+You can now run the following commands in the terminal to run the React application by following the steps below:
+
+- Copy or clone the folder to your system and run the code:
+`cd my-app`
+
+- Run the codes below:
+
+`npm install --save-dev babel-cli babel-env babel-preset-stage-0`
+
+`npm install express express-graphql nodemo`
+
+- Finally, run the application by typing the code:
+`npm yarn`
